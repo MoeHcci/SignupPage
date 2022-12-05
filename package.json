@@ -1,0 +1,24 @@
+{
+  "name": "signup_page",
+  "version": "1.0.0",
+  "description": "<h1> The Signup Page</h1> <p> This signup page includes a front end written by html, css and a back end written using Node.js (Express.js) </p>",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoeHcci/SignupPage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoeHcci/SignupPage/issues"
+  },
+  "homepage": "https://github.com/MoeHcci/SignupPage#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "request": "^2.88.2"
+  }
+}
